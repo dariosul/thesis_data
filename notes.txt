@@ -1,3 +1,6 @@
 
-[sigma mean(Error_irw) std(Error_irw) mean(Error_beck) std(Error_beck)]
-1e-1 	1.3004e-02   	2.8473e-02   	2.0376e-02  	 6.8724e-02
+[sigma mean(Error_irw) std(Error_irw) mean(Error_beck) std(Error_beck) improvement]
+1e-3	1.2634e-06   	1.9473e-06   	1.8098e-06   	 3.5594e-06	30
+1e-2 	1.1335e-04  	1.5981e-04  	1.6690e-04       2.5309e-04	32
+1e-1 	1.3004e-02   	2.8473e-02   	2.0376e-02  	 6.8724e-02	36
+1	1.4731e+00   	6.1167e+00   	2.1055e+00  	 7.6489e+00	30
